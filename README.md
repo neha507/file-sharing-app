@@ -1,2 +1,2 @@
-# file-sharing-app
-It is an app used for sharing large files.
+# File Sharing App
+It is an app used for sharing large files. You must use it appropriately.
